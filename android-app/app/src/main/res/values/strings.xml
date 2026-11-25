@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto Final Móviles</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="login_subtitle">Ingresa con tu cuenta universitaria</string>
+    <string name="register_title">Crear Cuenta</string>
+    <string name="register_subtitle">Completa tus datos para registrarte</string>
+    <string name="profile_title">Mi Perfil</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_carnet">Carnet</string>
+    <string name="hint_carrera">Carrera</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_go_to_register">¿No tienes cuenta? Regístrate</string>
+    <string name="btn_go_to_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="btn_take_photo">Tomar Foto</string>
+    <string name="btn_choose_gallery">Elegir de Galería</string>
+    <string name="btn_logout">Cerrar Sesión</string>
+</resources>
