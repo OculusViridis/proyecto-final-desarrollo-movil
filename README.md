@@ -1,4 +1,4 @@
-# Proyecto Final - Aplicaciones Móviles
+# Proyecto Final - Desarrollo Móvil
 
 - **Universidad:** Universidad Da Vinci de Guatemala
 - **Facultad:** Facultad de Ingeniería, Industria y Tecnología
